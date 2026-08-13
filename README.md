@@ -22,28 +22,6 @@ Brasil · Trabalho principalmente com Python, FastAPI, MySQL e processamento ass
 
 ---
 
-## Em construção
-
-> ### Plataforma de Produção de Políticas · SaaS
->
-> Uma plataforma que transforma uma demanda regulatória em um documento de política finalizado — da entrada dos documentos ao processamento estruturado, revisão e entrega.
->
-> **O que o sistema faz**
->
-> - Processamento de documentos e extração de informações
-> - Pipelines de geração estruturada com etapas de revisão
-> - Automação do fluxo ao longo de todo o ciclo de produção
-> - API REST, modelo de dados relacional e front-end tipado
-> - Integração com IA para análise e estruturação de conteúdo
->
-> **Stack do sistema**
->
-> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" /> <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=claude&logoColor=D97757" />
->
-> *Repositório privado — em desenvolvimento ativo.*
-
----
-
 ## Stack principal
 
 |  |  |
