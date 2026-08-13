@@ -52,7 +52,7 @@ Based in Brazil · Working mainly with Python, FastAPI, MySQL and AI-assisted pr
 | **SQL & Data** | <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5" /> |
 | **AI & Automation** | <img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=claude&logoColor=D97757" /> <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" /> |
 | **Frontend** | <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" /> |
-| **Environment** | <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=0098FF" /> |
+| **Environment** | VS Code · Excel |
 
 ---
 
