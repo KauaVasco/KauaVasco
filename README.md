@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/KauaVasco"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
-  <a href="COLOQUE_AQUI_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=8B949E" alt="E-mail" /></a>
 </p>
 
@@ -73,7 +73,7 @@ Mais em [meus repositórios](https://github.com/KauaVasco?tab=repositories).
 
 <p align="center">
   <a href="https://github.com/KauaVasco"><img src="https://img.shields.io/badge/GitHub-KauaVasco-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
-  <a href="COLOQUE_AQUI_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3_Vasco-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3_Vasco-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=8B949E" alt="E-mail" /></a>
 </p>
 
