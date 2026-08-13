@@ -24,7 +24,6 @@ Brasil · Trabalho principalmente com Python, FastAPI, MySQL e processamento ass
 
 ## Stack principal
 
-|  |  |
 | :--- | :--- |
 | **Back-end e APIs** | <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" /> |
 | **SQL e Dados** | <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5" /> |
