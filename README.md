@@ -16,7 +16,7 @@
 
 Construo software em cima de processos reais — normalmente aqueles que ainda dependem de trabalho manual, documentos espalhados e planilhas.
 
-A maior parte do que faço fica entre o back-end e os dados: APIs em Python, modelagem relacional em SQL, pipelines de leitura e tratamento de documentos, e automações que eliminam a etapa que alguém fazia na mão. Também trabalho no front-end, o que me permite acompanhar um sistema de ponta a ponta em vez de parar na fronteira da API. Prefiro entender o problema antes de escrever o código, e entregar algo que se sustenta em produção em vez de algo que só funciona bem numa demonstração.
+A maior parte do que faço fica entre o back-end e os dados: APIs em Python, modelagem relacional em SQL, pipelines de leitura e tratamento de documentos, e automações que eliminam a etapa que alguém fazia na mão. Prefiro entender o problema antes de escrever o código, e entregar algo que se sustenta em produção em vez de algo que só funciona bem numa demonstração.
 
 Brasil · Em evolução constante como desenvolvedor, construindo sistemas reais no caminho.
 
@@ -31,7 +31,6 @@ Brasil · Em evolução constante como desenvolvedor, construindo sistemas reais
 | **Processamento de dados** | Limpeza, transformação e pipelines de tratamento |
 | **Automação e workflows** | Integração entre serviços e remoção de tarefas manuais |
 | **Integração com IA** | Modelos dentro de fluxos de processamento, com validação |
-| **Front-end** | Interfaces tipadas consumindo as próprias APIs |
 
 ---
 
@@ -41,11 +40,9 @@ Brasil · Em evolução constante como desenvolvedor, construindo sistemas reais
 | :--- | :--- |
 | **Back-end** | <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" /> |
 | **SQL e bancos de dados** | <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> |
-| **Front-end** | <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" /> |
 | **Dados e automação** | <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5" /> <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" /> |
 | **IA** | <img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=claude&logoColor=D97757" /> |
-| **Ferramentas** | <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" /> |
-| **Ambiente** | VS Code · Excel |
+| **Ambiente** | VS Code |
 
 ---
 
@@ -65,15 +62,15 @@ Uso **n8n** para conectar serviços e tirar etapas repetitivas de um processo, e
 
 ## Dados
 
-**SQL** e **MySQL** para modelagem e consultas, **Pandas** para limpar e transformar conjuntos de dados, e Excel onde o dado ainda chega desse jeito. Isso sustenta os sistemas que eu construo em vez de ser uma trilha separada — é como o dado sai de onde ele mora e vira algo que uma aplicação consegue usar.
+**SQL** e **MySQL** para modelagem e consultas, **Pandas** para limpar e transformar conjuntos de dados. Isso sustenta os sistemas que eu construo em vez de ser uma trilha separada — é como o dado sai de onde ele mora e vira algo que uma aplicação consegue usar.
 
 ---
 
 ## Estudando agora
 
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" /> <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
 
-Expandindo para o ecossistema Node.js. Listado separado da stack principal de propósito — está em estudo, não em uso diário.
+Aprofundando controle de versão e fluxos de trabalho no GitHub, e expandindo para o ecossistema Node.js. Listados separados da stack principal de propósito — estão em estudo, não em uso consolidado.
 
 ---
 
