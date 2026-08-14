@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=42&lines=Desenvolvimento+back-end%2C+APIs+e+bancos+de+dados;Automa%C3%A7%C3%A3o+de+processos+e+integra%C3%A7%C3%A3o+entre+servi%C3%A7os;Aplica%C3%A7%C3%B5es+com+integra%C3%A7%C3%A3o+de+IA" alt="Desenvolvimento back-end, APIs e bancos de dados" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/%20-Enviar%20e--mail-black?color=14171A&labelColor=EA4335&logo=gmail&logoColor=ffffff&style=for-the-badge" alt="Enviar e-mail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KauaVasco&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
-</p>
-
 ---
 
 ## Sobre
@@ -85,7 +79,8 @@ Aprofundando controle de versão e fluxos de trabalho no GitHub, e expandindo pa
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/%20-Enviar%20e--mail-black?color=14171A&labelColor=EA4335&logo=gmail&logoColor=ffffff&style=for-the-badge" /></a>
+  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KauaVasco&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
 </p>
 
 <p align="center"><sub>Aberto a colaborações em projetos de back-end, dados e automação.</sub></p>
