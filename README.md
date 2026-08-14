@@ -85,7 +85,7 @@ Aprofundando controle de versão e fluxos de trabalho no GitHub, e expandindo pa
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/%20-Enviar%20e--mail-black?color=14171A&labelColor=EA4335&logo=gmail&logoColor=ffffff&style=for-the-badge" alt="Enviar e-mail" /></a>
+  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/%20-Enviar%20e--mail-black?color=14171A&labelColor=EA4335&logo=gmail&logoColor=ffffff&style=for-the-badge" /></a>
 </p>
 
 <p align="center"><sub>Aberto a colaborações em projetos de back-end, dados e automação.</sub></p>
