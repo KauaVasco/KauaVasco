@@ -24,25 +24,29 @@ Brasil · Em evolução constante como desenvolvedor, construindo sistemas reais
 
 ## Áreas de atuação
 
-|  |  |
-| :--- | :--- |
-| **Back-end e APIs** | Serviços em Python, endpoints REST, autenticação e autorização |
-| **Bancos de dados** | Modelagem relacional, consultas e integridade dos dados |
-| **Processamento de dados** | Limpeza, transformação e pipelines de tratamento |
-| **Automação e workflows** | Integração entre serviços e remoção de tarefas manuais |
-| **Integração com IA** | Modelos dentro de fluxos de processamento, com validação |
+<!-- Tabela em HTML, e nao em Markdown, de proposito: tabela Markdown
+     obriga a ter linha de cabecalho, e o GitHub desenha essa faixa
+     mesmo quando ela esta vazia. Em HTML nao existe essa exigencia.
+     Dentro de HTML o Markdown nao vale: use <strong>, nao **. -->
+<table>
+<tr><td><strong>Back-end e APIs</strong></td><td>Serviços em Python, endpoints REST, autenticação e autorização</td></tr>
+<tr><td><strong>Bancos de dados</strong></td><td>Modelagem relacional, consultas e integridade dos dados</td></tr>
+<tr><td><strong>Processamento de dados</strong></td><td>Limpeza, transformação e pipelines de tratamento</td></tr>
+<tr><td><strong>Automação e workflows</strong></td><td>Integração entre serviços e remoção de tarefas manuais</td></tr>
+<tr><td><strong>Integração com IA</strong></td><td>Modelos dentro de fluxos de processamento, com validação</td></tr>
+</table>
 
 ---
 
 ## Stack
 
-|  |  |
-| :--- | :--- |
-| **Back-end** | <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" /> |
-| **SQL e bancos de dados** | <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> |
-| **Dados e automação** | <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5" /> <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" /> |
-| **IA** | <img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=claude&logoColor=D97757" /> |
-| **Ambiente** | VS Code |
+<table>
+<tr><td><strong>Back-end</strong></td><td><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" /></td></tr>
+<tr><td><strong>SQL e bancos de dados</strong></td><td><img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /></td></tr>
+<tr><td><strong>Dados e automação</strong></td><td><img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5" /> <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" /></td></tr>
+<tr><td><strong>IA</strong></td><td><img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=claude&logoColor=D97757" /></td></tr>
+<tr><td><strong>Ambiente</strong></td><td>VS Code</td></tr>
+</table>
 
 ---
 
