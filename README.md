@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KauaVasco"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=8B949E" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/KauaVasco"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KauaVasco&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
 </p>
 
 ---
@@ -72,7 +73,10 @@ Uso **n8n** para conectar serviços e tirar etapas repetitivas de um processo, e
 
 ## Estudando agora
 
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" /> <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<!-- skillicons.dev: slugs separados por virgula, ordem = ordem exibida.
+     Nao tem parametro de tamanho - controla-se pelo height do <img>.
+     Slug inexistente nao da erro: some com o icone. Lista em skillicons.dev -->
+<img src="https://skillicons.dev/icons?i=git,github,nodejs&theme=dark" height="40" alt="Git, GitHub, Node.js" />
 
 Aprofundando controle de versão e fluxos de trabalho no GitHub, e expandindo para o ecossistema Node.js. Listados separados da stack principal de propósito — estão em estudo, não em uso consolidado.
 
@@ -81,9 +85,9 @@ Aprofundando controle de versão e fluxos de trabalho no GitHub, e expandindo pa
 ## Contato
 
 <p align="center">
-  <a href="https://github.com/KauaVasco"><img src="https://img.shields.io/badge/GitHub-KauaVasco-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3_Vasco-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=8B949E" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3_Vasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-kauatidev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/KauaVasco"><img src="https://img.shields.io/badge/GitHub-KauaVasco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center"><sub>Aberto a colaborações em projetos de back-end, dados e automação.</sub></p>
