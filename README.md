@@ -2,6 +2,10 @@
 
 <p align="center"><sub>BACK-END &nbsp;·&nbsp; DADOS &nbsp;·&nbsp; AUTOMAÇÃO</sub></p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=42&lines=Desenvolvimento+back-end%2C+APIs+e+bancos+de+dados;Automa%C3%A7%C3%A3o+de+processos+e+integra%C3%A7%C3%A3o+entre+servi%C3%A7os;Aplica%C3%A7%C3%B5es+com+integra%C3%A7%C3%A3o+de+IA" alt="Desenvolvimento back-end, APIs e bancos de dados" />
+</p>
+
 ---
 
 ## Sobre
