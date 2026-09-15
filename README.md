@@ -39,6 +39,11 @@ Estou no começo da carreira e prefiro dizer isso a fingir o contrário. Curso S
 <td>Conectar serviços e eliminar a etapa que alguém repetia na mão.</td>
 </tr>
 <tr>
+<td><strong>Infraestrutura</strong><br>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" /></td>
+<td>O básico: subir e manter serviços em container no dia a dia (ex.: o n8n dos meus projetos roda assim).</td>
+</tr>
+<tr>
 <td><strong>IA dentro do fluxo</strong><br>
 <img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=claude&logoColor=D97757" /></td>
 <td>O modelo como uma etapa do pipeline, não como o produto. O que importa é o que entra, o que é conferido antes de seguir adiante, e o que o sistema faz quando a saída vem errada.</td>
