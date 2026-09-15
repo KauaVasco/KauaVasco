@@ -73,10 +73,13 @@ Aprofundando controle de versão e fluxos de trabalho no GitHub, e começando no
 ## Projetos
 
 <table>
-<tr><td align="center"><br>
-<strong>Em breve</strong><br>
-<sub>Estou preparando os primeiros repositórios públicos para colocar aqui — cada um com o problema que resolve e as decisões técnicas por trás.</sub><br><br>
-</td></tr>
+<tr>
+<td width="50%">
+<strong><a href="https://github.com/KauaVasco/automacao-emails-n8n-ia">Automação de E-mails com IA</a></strong><br>
+<sub>Workflow n8n que lê e-mails inteiros — texto, fotos, PDFs e planilhas anexadas — e escreve a resposta como rascunho no Gmail, sempre com humano revisando antes de enviar. Reescreve a resposta sob demanda com um label do Gmail, sem nenhum código extra. Rodado e testado ponta a ponta em Docker.</sub><br><br>
+<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Gmail_API-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
+</td>
+</tr>
 </table>
 
 ---
