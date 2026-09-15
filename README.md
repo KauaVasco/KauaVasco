@@ -1,100 +1,51 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:11213E,100:1F6FEB&height=180&section=header&text=Kau%C3%A3%20Vasco&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20de%20Software&descSize=17&descAlignY=56&descColor=C9D1D9" width="100%" alt="Kauã Vasco — Desenvolvedor de Software" />
 
-<p align="center"><sub>BACK-END &nbsp;·&nbsp; DADOS &nbsp;·&nbsp; AUTOMAÇÃO</sub></p>
+## Oi! 👋 Sou o Kauã, um Desenvolvedor de Software júnior focado em back-end.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=42&lines=Desenvolvimento+back-end%2C+APIs+e+bancos+de+dados;Automa%C3%A7%C3%A3o+de+processos+e+integra%C3%A7%C3%A3o+entre+servi%C3%A7os;Aplica%C3%A7%C3%B5es+com+integra%C3%A7%C3%A3o+de+IA" alt="Desenvolvimento back-end, APIs e bancos de dados" />
-</p>
+🚀 Trabalho principalmente com Python: APIs em FastAPI, modelagem de dados em SQL e automações que tiram uma etapa manual do meio de um processo.
 
----
+📚 Estou no começo da carreira e prefiro dizer isso a fingir o contrário. Curso Sistemas de Informação e, em paralelo, já pratico em sistema que roda em produção de verdade — com autenticação, banco, tratamento de erro e deploy.
 
-## Sobre
+🔍 Foi ali que aprendi que a parte difícil raramente é escrever a função. É descobrir por que ela quebra num caso que eu não tinha previsto — por isso invisto tanto em investigar antes de alterar quanto em escrever o código em si.
 
-Trabalho principalmente no back-end: APIs em Python, modelagem de dados em SQL e automações que tiram etapas manuais do meio de um processo.
+🤖 Também trabalho com IA dentro de pipeline: o modelo como uma etapa do processo, não como o produto — o que importa é o que entra, o que é conferido antes de seguir adiante, e o que o sistema faz quando a saída vem errada.
 
-Estou no começo da carreira e prefiro dizer isso a fingir o contrário. Curso Sistemas de Informação e, em paralelo, já tenho prática em sistema que roda em produção — com autenticação, banco, tratamento de erro e deploy. Foi ali que aprendi que a parte difícil raramente é escrever a função. É descobrir por que ela quebra num caso que eu não tinha previsto.
+Vamos nos conectar! 🌟
 
----
+[![LinkedIn: Kauã Vasco](https://img.shields.io/badge/-Kau%C3%A3%20Vasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b)](https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b)
+[![GitHub Kauã](https://img.shields.io/github/followers/KauaVasco?label=follow&style=social)](https://github.com/KauaVasco)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=KauaVasco&color=blueviolet&style=flat-square&label=views)
 
-## Foco atual
+### Principais habilidades:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Tabela em HTML, e nao em Markdown, de proposito: tabela Markdown obriga a ter
-     linha de cabecalho, e o GitHub desenha essa faixa mesmo quando ela esta vazia.
-     Em HTML nao existe essa exigencia.
-     Dentro de HTML o Markdown nao vale: use <strong>, nao **. -->
-<table>
-<tr>
-<td><strong>Back-end e APIs</strong><br>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /></td>
-<td>Endpoints REST, autenticação e autorização, regras de negócio e tratamento de erro.</td>
-</tr>
-<tr>
-<td><strong>Dados</strong><br>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" /> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E5E5E5" /></td>
-<td>Modelagem relacional e consultas em SQL; Pandas para limpar e transformar o que chega fora de formato.</td>
-</tr>
-<tr>
-<td><strong>Automação</strong><br>
-<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" /></td>
-<td>Conectar serviços e eliminar a etapa que alguém repetia na mão.</td>
-</tr>
-<tr>
-<td><strong>Infraestrutura</strong><br>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" /></td>
-<td>O básico: subir e manter serviços em container no dia a dia (ex.: o n8n dos meus projetos roda assim).</td>
-</tr>
-<tr>
-<td><strong>IA dentro do fluxo</strong><br>
-<img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=claude&logoColor=D97757" /></td>
-<td>O modelo como uma etapa do pipeline, não como o produto. O que importa é o que entra, o que é conferido antes de seguir adiante, e o que o sistema faz quando a saída vem errada.</td>
-</tr>
-</table>
+## Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Como trabalho:
+- 🔎 **Investigar antes de alterar** — ler o fluxo inteiro antes de mexer numa parte dele; bug quase nunca está onde ele aparece.
+- ✅ **Validar em vez de supor** — rodar o caminho de erro, não só o que eu esperava que acontecesse. "Compilou" não prova nada.
+- ♻️ **Reaproveitar antes de criar** — quase sempre já existe algo parecido no projeto, e duplicar significa criar dois lugares para o mesmo bug aparecer.
+- 📝 **Escrever pensando em quem mantém** — comentário registra o porquê; o quê já está no código.
+
+### Projetos:
+- **[Automação de E-mails com IA (n8n)](https://github.com/KauaVasco/automacao-emails-n8n-ia)** — workflow que lê e-mails inteiros (texto, fotos, PDFs, planilhas) e escreve a resposta como rascunho no Gmail, sempre com humano revisando antes de enviar; reescreve sob demanda com um label do Gmail, sem código extra. Testado ponta a ponta, rodando em Docker.
 
 ---
 
-## Como trabalho
+- 🔭 Atualmente focado em **back-end, dados e automação de processos**
+- 🌱 Aprofundando **Git, GitHub e o ecossistema Node.js**
+- 👯 Aberto a colaborar em projetos open source
+- 🤔 Em busca da minha **primeira oportunidade como desenvolvedor júnior**
+- 💬 Me pergunte sobre **back-end em Python, automação com n8n e integração de IA em pipeline**
+- 📫 Como me encontrar:
+  **[LinkedIn](https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b) · [E-mail](mailto:kauatidev@gmail.com)**
 
-**Investigar antes de alterar.** Ler o fluxo inteiro antes de mexer numa parte dele; bug quase nunca está onde ele aparece.
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=KauaVasco&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-**Validar em vez de supor.** Rodar o caminho de erro, não só o que eu esperava que acontecesse. "Compilou" não prova nada.
+![](https://streak-stats.demolab.com/?user=KauaVasco&theme=dark&hide_border=true)
 
-**Reaproveitar antes de criar.** Quase sempre já existe algo parecido no projeto, e duplicar significa criar dois lugares para o mesmo bug aparecer.
-
-**Escrever pensando em quem mantém.** Comentário registra o porquê; o quê já está no código.
-
----
-
-## Estudando agora
-
-<!-- skillicons.dev: slugs separados por virgula, ordem = ordem exibida.
-     Nao tem parametro de tamanho - controla-se pelo height do <img>.
-     Slug inexistente nao da erro: some com o icone. Lista em skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=git,github,nodejs&theme=dark" height="40" alt="Git, GitHub, Node.js" />
-
-Aprofundando controle de versão e fluxos de trabalho no GitHub, e começando no ecossistema Node.js. Estão listados separados de propósito: são estudo, não uso consolidado.
-
----
-
-## Projetos
-
-<table>
-<tr>
-<td width="50%">
-<strong><a href="https://github.com/KauaVasco/automacao-emails-n8n-ia">Automação de E-mails com IA</a></strong><br>
-<sub>Workflow n8n que lê e-mails inteiros — texto, fotos, PDFs e planilhas anexadas — e escreve a resposta como rascunho no Gmail, sempre com humano revisando antes de enviar. Reescreve a resposta sob demanda com um label do Gmail, sem nenhum código extra. Rodado e testado ponta a ponta em Docker.</sub><br><br>
-<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Gmail_API-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
-</td>
-</tr>
-</table>
-
----
-
-## Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kauatidev@gmail.com"><img src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KauaVasco&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaVasco&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:11213E,100:0B1220&height=110&section=footer" width="100%" alt="" />
