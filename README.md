@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:11213E,100:1F6FEB&height=180&section=header&text=Kau%C3%A3%20Vasco&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20de%20Software&descSize=17&descAlignY=56&descColor=C9D1D9" width="100%" alt="Kauã Vasco — Desenvolvedor de Software" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:11213E,100:1F6FEB&height=180&section=header&text=Kau%C3%A3%20Vasco&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20Backend%20Python&descSize=17&descAlignY=56&descColor=C9D1D9" width="100%" alt="Kauã Vasco — Desenvolvedor Backend Python" />
 
-## Oi! 👋 Sou o Kauã, um Desenvolvedor de Software júnior focado em back-end.
+## Oi! 👋 Sou o Kauã, um Desenvolvedor Backend Python júnior.
 
 🚀 Trabalho principalmente com Python: APIs em FastAPI, modelagem de dados em SQL e automações que tiram uma etapa manual do meio de um processo.
 
