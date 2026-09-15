@@ -4,7 +4,7 @@
 
 🚀 Trabalho principalmente com Python: APIs em FastAPI, modelagem de dados em SQL e automações que tiram uma etapa manual do meio de um processo.
 
-📚 Estou no começo da carreira e prefiro dizer isso a fingir o contrário. Curso Sistemas de Informação e, em paralelo, já pratico em sistema que roda em produção de verdade — com autenticação, banco, tratamento de erro e deploy.
+📚 Estou no começo da carreira. Curso Sistemas de Informação e, em paralelo, já pratico em sistema que roda em produção de verdade — com autenticação, banco, tratamento de erro e deploy.
 
 🔍 Foi ali que aprendi que a parte difícil raramente é escrever a função. É descobrir por que ela quebra num caso que eu não tinha previsto — por isso invisto tanto em investigar antes de alterar quanto em escrever o código em si.
 
