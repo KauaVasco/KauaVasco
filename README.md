@@ -29,7 +29,7 @@ Vamos nos conectar! 🌟
 - 📝 **Escrever pensando em quem mantém** — comentário registra o porquê; o quê já está no código.
 
 ### Projetos:
-- **[Automação de E-mails com IA (n8n)](https://github.com/KauaVasco/automacao-emails-n8n-ia)** — lê e-mails inteiros (texto, fotos, PDFs, planilhas) e escreve a resposta como rascunho no Gmail, sempre com humano revisando antes de enviar.
+- **[Automação de E-mails com IA (n8n)](https://github.com/KauaVasco/automacoes-n8n-ia)** — lê e-mails inteiros (texto, fotos, PDFs, planilhas) e escreve a resposta como rascunho no Gmail, sempre com humano revisando antes de enviar.
 
 ### Estudando:
 <img src="https://skillicons.dev/icons?i=git,github,nodejs,docker&theme=dark" height="40" alt="Git, GitHub, Node.js, Docker" />
