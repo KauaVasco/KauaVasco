@@ -1,53 +1,54 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:11213E,100:1F6FEB&height=180&section=header&text=Kau%C3%A3%20Vasco&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20Backend%20Python&descSize=17&descAlignY=56&descColor=C9D1D9" width="100%" alt="Kauã Vasco — Desenvolvedor Backend Python" />
+<p align="center">
+  <img src="assets/readme/banner.svg" width="720" alt="Kauã Vasco, Desenvolvedor Backend Python Júnior">
+</p>
 
-## Oi! 👋 Sou o Kauã, um Desenvolvedor Backend Python júnior.
+## Sobre mim
 
-🚀 Trabalho principalmente com Python: APIs em FastAPI, modelagem de dados em SQL e automações que tiram uma etapa manual do meio de um processo.
+Sou desenvolvedor Backend Python júnior e curso Sistemas de Informação. Tenho experiência prática em um sistema que roda em produção e busco minha primeira oportunidade na área.
 
-📚 Estou no começo da carreira. Curso Sistemas de Informação e, em paralelo, já pratico em sistema que roda em produção de verdade — com autenticação, banco, tratamento de erro e deploy.
+Trabalho com APIs em FastAPI, MySQL com SQLAlchemy assíncrono, validação de dados com Pydantic e automações em n8n. Ainda estou ganhando autonomia. O que mais aprendi até aqui foi investigar antes de alterar e testar o caminho de erro, além do que eu esperava que acontecesse.
 
-🔍 Foi ali que aprendi que a parte difícil raramente é escrever a função. É descobrir por que ela quebra num caso que eu não tinha previsto — por isso invisto tanto em investigar antes de alterar quanto em escrever o código em si.
+Também integro modelos de linguagem a pipelines. Para mim o modelo é uma etapa do processo: importa o que entra, o que se confere antes de seguir e o que o sistema faz quando a resposta vem errada.
 
-🤖 Também trabalho com IA dentro de pipeline: o modelo como uma etapa do processo, não como o produto — o que importa é o que entra, o que é conferido antes de seguir adiante, e o que o sistema faz quando a saída vem errada.
+## Projetos
 
-Vamos nos conectar! 🌟
+### Sistema de criação de políticas (código privado)
 
-[![LinkedIn: Kauã Vasco](https://img.shields.io/badge/-Kau%C3%A3%20Vasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b)](https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b)
-[![GitHub Kauã](https://img.shields.io/github/followers/KauaVasco?label=follow&style=social)](https://github.com/KauaVasco)
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=KauaVasco&color=blueviolet&style=flat-square&label=views)
+Sistema para fluxos de trabalho jurídicos e regulatórios. O cliente abre uma demanda, o sistema faz uma análise automatizada, gera um questionário e produz a política, que uma pessoa revisa antes da entrega. Há acesso por papéis (administrador, equipe e cliente) e o sistema roda em produção.
 
-### Principais habilidades:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Desenvolvido por mim, com apoio de IA na implementação.
 
-## Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+No backend usei endpoints e rotas em FastAPI, dependências, validação com Pydantic, tratamento de erros e SQLAlchemy assíncrono. A análise e a geração rodam como etapas de um pipeline de IA, com uma conferência do resultado antes de seguir.
 
-### Como trabalho:
-- 🔎 **Investigar antes de alterar** — ler o fluxo inteiro antes de mexer numa parte dele; bug quase nunca está onde ele aparece.
-- ✅ **Validar em vez de supor** — rodar o caminho de erro, não só o que eu esperava que acontecesse. "Compilou" não prova nada.
-- ♻️ **Reaproveitar antes de criar** — quase sempre já existe algo parecido no projeto, e duplicar significa criar dois lugares para o mesmo bug aparecer.
-- 📝 **Escrever pensando em quem mantém** — comentário registra o porquê; o quê já está no código.
+Stack: Python, FastAPI, SQLAlchemy, Pydantic e MySQL. O código é privado porque o sistema pertence a um contexto profissional.
 
-### Projetos:
-- **[Automação de E-mails com IA (n8n)](https://github.com/KauaVasco/automacoes-n8n-ia)** — lê e-mails inteiros (texto, fotos, PDFs, planilhas) e escreve a resposta como rascunho no Gmail, sempre com humano revisando antes de enviar.
+### [Automação de e-mails e reuniões com IA (n8n)](https://github.com/KauaVasco/automacoes-n8n-ia)
 
-### Estudando:
-<img src="https://skillicons.dev/icons?i=git,github,nodejs,docker&theme=dark" height="40" alt="Git, GitHub, Node.js, Docker" />
+Dois workflows do n8n que trabalham juntos. Um lê e-mails inteiros (texto, imagens, PDFs e planilhas) e escreve a resposta. O outro identifica pedidos de reunião e marca no Google Calendar. Toda mensagem enviada e toda reunião marcada passam antes por aprovação no Telegram, e se o modelo principal falhar ou vier vazio, um segundo assume.
 
----
+Foi feito e testado em `localhost`, com o n8n rodando em Docker. Não é uma instância de produção.
 
-- 🔭 Atualmente focado em **back-end, dados e automação de processos**
-- 👯 Aberto a colaborar em projetos open source
-- 🤔 Em busca da minha **primeira oportunidade como desenvolvedor júnior**
-- 💬 Me pergunte sobre **back-end em Python, automação com n8n e integração de IA em pipeline**
-- 📫 Como me encontrar:
-  **[LinkedIn](https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b) · [E-mail](mailto:kauatidev@gmail.com)**
+## Tecnologias
 
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=KauaVasco&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+```text
+$ cat stack.txt
 
-![](https://streak-stats.demolab.com/?user=KauaVasco&theme=dark&hide_border=true)
+[prática]
+  Python, FastAPI
+  SQL e MySQL
+  SQLAlchemy (assíncrono)
+  Pydantic
+  APIs e integrações com IA
+  n8n
+  Git e GitHub
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaVasco&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[intermediário]
+  Pandas
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:11213E,100:0B1220&height=110&section=footer" width="100%" alt="" />
+[básico]
+  Docker (rodo o n8n em contêiner)
+```
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b) · [E-mail](mailto:kauatidev@gmail.com)
