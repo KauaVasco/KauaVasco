@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="20" role="img" aria-label="Google Gemini">
+  <title>Google Gemini</title>
+  <linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <g shape-rendering="crispEdges"><rect width="97.2" height="20" fill="#8E75B2"/><rect width="98" height="20" fill="url(#b)"/></g>
+  
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-rendering="geometricPrecision"><text x="48.6" y="15" fill="#010101" fill-opacity=".3" textLength="83.2" lengthAdjust="spacingAndGlyphs">Google Gemini</text><text x="48.6" y="14" textLength="83.2" lengthAdjust="spacingAndGlyphs">Google Gemini</text></g>
+</svg>

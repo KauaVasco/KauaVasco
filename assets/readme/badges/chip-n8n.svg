@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="20" role="img" aria-label="n8n">
+  <title>n8n</title>
+  <linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <g shape-rendering="crispEdges"><rect width="33.2" height="20" fill="#EA4B71"/><rect width="34" height="20" fill="url(#b)"/></g>
+  
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-rendering="geometricPrecision"><text x="16.6" y="15" fill="#010101" fill-opacity=".3" textLength="19.2" lengthAdjust="spacingAndGlyphs">n8n</text><text x="16.6" y="14" textLength="19.2" lengthAdjust="spacingAndGlyphs">n8n</text></g>
+</svg>
