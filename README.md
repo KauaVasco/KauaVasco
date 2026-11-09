@@ -1,71 +1,41 @@
-<p align="center">
-  <img src="assets/readme/banner.svg" width="720" alt="Kauã Vasco, Desenvolvedor Backend Python Júnior">
-</p>
+# 💫 Sobre mim
 
-## Sobre mim
+Sou desenvolvedor Backend Python Júnior e estudante de Sistemas de Informação. Tenho foco no desenvolvimento de APIs, integração de sistemas, bancos de dados e automação de processos.
 
-Sou desenvolvedor Backend Python júnior e curso Sistemas de Informação. Tenho experiência prática com APIs, bancos de dados e integrações, e gosto de automatizar tarefas e processos.
+Trabalho com Python, FastAPI, SQLAlchemy e MySQL, buscando construir soluções organizadas, confiáveis e eficientes.
 
-Busco evoluir na construção de soluções confiáveis, investigando falhas, testando cenários de erro e entendendo o comportamento do sistema antes de alterá-lo. Também tenho contato com a integração de modelos de linguagem em pipelines, com atenção à validação das respostas e ao que o sistema faz quando uma delas não é adequada.
+Amo programar, desenvolver projetos próprios e também gosto de jogos.
 
-## Tecnologias
+# 💻 Tech Stack
 
-<p align="center">
-  <img src="assets/readme/stack.svg" width="610" alt="Ícones de Python, FastAPI, SQLAlchemy, Pydantic, MySQL, n8n, Git e GitHub, de uso prático. Docker (básico) e Pandas (em estudo) aparecem em cinza.">
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=plastic&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=plastic&logo=pydantic&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-em%20estudo-777?style=plastic&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
-```text
-$ tree ~/stack
-
-~/stack
-├── backend/
-│   ├── python
-│   ├── fastapi
-│   ├── sqlalchemy (assíncrono)
-│   └── pydantic
-├── database/
-│   ├── mysql
-│   └── sql
-├── automation/
-│   ├── n8n
-│   ├── apis-externas
-│   └── integracao-com-ia
-├── tools/
-│   ├── git
-│   ├── github
-│   └── docker  # básico
-└── learning/
-    └── pandas  # em estudo
-```
-
-Tecnologias sem indicação ao lado fazem parte da minha experiência prática. Na faixa de ícones, Docker e Pandas aparecem em cinza.
-
-## Projeto
+# 🚀 Projetos em destaque
 
 ### Automação de e-mails e reuniões com IA
 
-Responder e-mails e marcar reuniões consome tempo em tarefas repetitivas. Dois workflows do n8n cuidam desse trabalho, e respostas, perguntas de horário e reuniões só seguem depois de aprovação humana pelo Telegram.
+Workflows desenvolvidos com n8n para automatizar tarefas de e-mail e agendamento de reuniões, integrando modelos de IA, Telegram e Google Calendar.
 
-- E-mails: lê mensagens e anexos (imagens, PDFs e planilhas) e gera a resposta com IA. Se a resposta não é aprovada, ela é reescrita. Se o modelo principal falha, um modelo de reserva (Gemini) assume.
-- Reuniões: identifica pedidos de reunião, consulta o Google Calendar e cria o evento depois da aprovação. Quando falta o horário, prepara uma pergunta para pedi-lo, também sujeita à aprovação.
+[![GitHub](https://img.shields.io/badge/Ver%20repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/KauaVasco/automacoes-n8n-ia)
 
-<p>
-  <img src="assets/readme/badges/chip-n8n.svg" alt="n8n">
-  <img src="assets/readme/badges/chip-docker.svg" alt="Docker">
-  <img src="assets/readme/badges/chip-openrouter.svg" alt="OpenRouter">
-  <img src="assets/readme/badges/chip-google-gemini.svg" alt="Google Gemini">
-</p>
+> Projeto desenvolvido e testado localmente. Ainda não está em produção.
 
-> Desenvolvido e testado localmente, com n8n em Docker. Não está em produção.
+# 🌐 Socials
 
-<p>
-  <a href="https://github.com/KauaVasco/automacoes-n8n-ia"><img src="assets/readme/badges/link-github.svg" alt="Explorar o código no GitHub"></a>
-  <img src="https://hits.sh/github.com/KauaVasco/KauaVasco.svg?style=flat-square&label=views&color=555&labelColor=3ddc84&extraCount=135" alt="Visualizações do perfil">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:kauatidev@gmail.com)
 
-## Contato
+---
 
-<p>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-vasco-1a0b6037b"><img src="assets/readme/badges/link-linkedin.svg" alt="LinkedIn: Kauã Vasco"></a>
-  <a href="mailto:kauatidev@gmail.com"><img src="assets/readme/badges/link-email.svg" alt="E-mail: kauatidev@gmail.com"></a>
+<p align="center">
+  <img src="https://hits.sh/github.com/KauaVasco/KauaVasco.svg?style=flat-square&label=profile%20views&color=555&labelColor=3ddc84&extraCount=135" alt="Profile Views">
 </p>
