@@ -23,11 +23,18 @@ Amo programar, desenvolver projetos próprios e também gosto de jogos.
 
 ### Automação de e-mails e reuniões com IA
 
-Workflows desenvolvidos com n8n para automatizar tarefas de e-mail e agendamento de reuniões, integrando modelos de IA, Telegram e Google Calendar.
+Workflows desenvolvidos com n8n para automatizar o gerenciamento de e-mails e agendamento de reuniões, utilizando modelos de IA e aprovação humana via Telegram.
 
-[![GitHub](https://img.shields.io/badge/Ver%20repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/KauaVasco/automacoes-n8n-ia)
+- **E-mails:** leitura de mensagens e anexos (PDFs, imagens e planilhas), geração de respostas com IA e reescrita quando necessário.
+- **Fallback de IA:** utilização do Gemini como modelo alternativo caso o modelo principal apresente falhas.
+- **Reuniões:** identificação de solicitações, consulta ao Google Calendar e criação de eventos após aprovação.
+- **Controle humano:** respostas, perguntas e agendamentos dependem de aprovação antes de serem executados.
 
-> Projeto desenvolvido e testado localmente. Ainda não está em produção.
+**Tecnologias:** Python · n8n · Docker · OpenRouter · Gemini · Google Calendar
+
+[![GitHub](https://img.shields.io/badge/Ver%20projeto-181717?style=plastic&logo=github&logoColor=white)](https://github.com/KauaVasco/automacoes-n8n-ia)
+
+> Desenvolvido e testado localmente. Ainda não está em produção.
 
 # 🌐 Socials
 
